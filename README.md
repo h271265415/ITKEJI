@@ -1,6 +1,6 @@
 # ITMFB-TEST
 <html><head>
-<title>ITMFB-玫瑰花JS</title>
+<title>ITMFB-玫瑰花</title>
 <meta charset="utf-8" />
 </head>
 <body>
